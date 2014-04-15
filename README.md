@@ -1,5 +1,5 @@
 js
 ==
 
-checkboxselected
+
 $("element").TTSelectcheckbox();
